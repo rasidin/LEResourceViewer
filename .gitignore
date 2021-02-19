@@ -1,0 +1,6 @@
+resources
+/build/x64-Debug-DX12
+/out/build/x64-Debug (既定値)
+/.vs
+build
+out
